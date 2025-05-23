@@ -1,3 +1,4 @@
+"use client";
 import React, { JSX, useState } from "react";
 import { RxCaretDown } from "react-icons/rx";
 import { BiSolidOffer } from "react-icons/bi";
